@@ -26,3 +26,7 @@ def function_2():
 # Update 11
 def function_10():
     return 10
+
+# Update 21
+def function_20():
+    return 20
